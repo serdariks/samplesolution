@@ -1,0 +1,14 @@
+C:\mygit\sample-solution\dotnet-service-one\bin\Debug\netcoreapp2.1\dotnet-service-one.deps.json
+C:\mygit\sample-solution\dotnet-service-one\bin\Debug\netcoreapp2.1\dotnet-service-one.runtimeconfig.json
+C:\mygit\sample-solution\dotnet-service-one\bin\Debug\netcoreapp2.1\dotnet-service-one.runtimeconfig.dev.json
+C:\mygit\sample-solution\dotnet-service-one\bin\Debug\netcoreapp2.1\dotnet-service-one.dll
+C:\mygit\sample-solution\dotnet-service-one\bin\Debug\netcoreapp2.1\dotnet-service-one.pdb
+C:\mygit\sample-solution\dotnet-service-one\bin\Debug\netcoreapp2.1\triodor-messaging-sockets.dll
+C:\mygit\sample-solution\dotnet-service-one\bin\Debug\netcoreapp2.1\triodor-messaging-sockets.pdb
+C:\mygit\sample-solution\dotnet-service-one\obj\Debug\netcoreapp2.1\dotnet-service-one.csprojAssemblyReference.cache
+C:\mygit\sample-solution\dotnet-service-one\obj\Debug\netcoreapp2.1\dotnet-service-one.csproj.CoreCompileInputs.cache
+C:\mygit\sample-solution\dotnet-service-one\obj\Debug\netcoreapp2.1\dotnet-service-one.AssemblyInfoInputs.cache
+C:\mygit\sample-solution\dotnet-service-one\obj\Debug\netcoreapp2.1\dotnet-service-one.AssemblyInfo.cs
+C:\mygit\sample-solution\dotnet-service-one\obj\Debug\netcoreapp2.1\dotnet-service-one.csproj.CopyComplete
+C:\mygit\sample-solution\dotnet-service-one\obj\Debug\netcoreapp2.1\dotnet-service-one.dll
+C:\mygit\sample-solution\dotnet-service-one\obj\Debug\netcoreapp2.1\dotnet-service-one.pdb
