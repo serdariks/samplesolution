@@ -633,7 +633,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
+      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -816,7 +816,7 @@
       ]
     },
     "SocketIo.Core/2.0.0": {
-      "sha512": "ckLFcNS0tXFBz9oU3iE8Fapnxmdct6H/pfoiwG1ru/LuGdkJPf+qOMvHNLBLJJy6iM70wUdAZL5KKhUjZlb4yA==",
+      "sha512": "BXautrM5XOIcAktCYeex9tB7K/GTtr5k8gwIDkY0hSbBCNfRZyeKY0aPlBRY4PBwZmgJo7DPKdfnkstLcZCHsg==",
       "type": "package",
       "path": "socketio.core/2.0.0",
       "files": [
@@ -1636,11 +1636,12 @@
       ]
     },
     "System.Reflection.Emit/4.0.1": {
-      "sha512": "P2wqAj72fFjpP6wb9nSfDqNBMab+2ovzSDzUZK7MVIm54tBJEPr9jWfSjjoTpPwj1LeKcmX3vr0ttyjSSFM47g==",
+      "sha512": "/3dmiGuUUUjqZaSeTdxkgzY0De8sLpS4J3tYRETskSbZaRjwvL62IBalMGI6iczZ6udJ1iBlsBBYOHtdCfx90Q==",
       "type": "package",
       "path": "system.reflection.emit/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2835,30 +2836,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\administrator.CC4LDEV\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/cc4s/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\mygit\\sample-solution\\triodor-messaging-sockets\\triodor-messaging-sockets.csproj",
+      "projectUniqueName": "/home/cc4s/projects/samplesolution/triodor-messaging-sockets/triodor-messaging-sockets.csproj",
       "projectName": "triodor-messaging-sockets",
-      "projectPath": "C:\\mygit\\sample-solution\\triodor-messaging-sockets\\triodor-messaging-sockets.csproj",
-      "packagesPath": "C:\\Users\\administrator.CC4LDEV\\.nuget\\packages\\",
-      "outputPath": "C:\\mygit\\sample-solution\\triodor-messaging-sockets\\obj\\",
+      "projectPath": "/home/cc4s/projects/samplesolution/triodor-messaging-sockets/triodor-messaging-sockets.csproj",
+      "packagesPath": "/home/cc4s/.nuget/packages/",
+      "outputPath": "/home/cc4s/projects/samplesolution/triodor-messaging-sockets/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\administrator.CC4LDEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/cc4s/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
